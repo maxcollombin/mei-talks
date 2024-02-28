@@ -11,9 +11,12 @@ npm install -g reveal-md
 ```console
 reveal-md slides.md
 ```
-
-## Export to PDF
+## Build the presentation
 
 ```console
-reveal-md slides.md --print slides.pdf
+reveal-md slides.md --static _site
 ```
+
+## Access the presentation as pdf
+
+The presentation is avalaible as pdf adding `?view=print` to its url.
