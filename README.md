@@ -14,7 +14,7 @@ reveal-md slides.md
 ## Build the presentation
 
 ```console
-reveal-md slides.md --static _site
+reveal-md slides.md --static --static-dirs=assets _site
 ```
 
 ## Access the presentation as pdf
