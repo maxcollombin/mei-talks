@@ -12,11 +12,11 @@ revealOptions: {
 }
 ---
 
-<!-- <h2 style="color: #FFFFFF">Géostandardisation</h2>
-<h3 style="color: #FFFFFF">/ʒeɔstɑ̃daʁdizasjɔ̃/</h3> -->
+<h2 style="color: #FFFFFF">Géostandardisation</h2>
+<h3 style="color: #FFFFFF">/ʒeɔstɑ̃daʁdizasjɔ̃/</h3>
 
-## Geostandardisation
-### /ʒeɔstɑ̃daʁdizasjɔ̃/
+<!-- ## Geostandardisation
+### /ʒeɔstɑ̃daʁdizasjɔ̃/ -->
 
 <!-- .slide: data-background="./assets/mei-background.jpg" -->
 
