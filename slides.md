@@ -77,7 +77,7 @@ Note: C'est là que les standards de l'Open GeoSpatial Consortium (ou OGC pour l
 ---
 ## Interopérabilité
 
-<img src="assets/EIF.png" alt="EIF" height="350">
+<img src="assets/EIF.PNG" alt="EIF" height="350">
 
 Note: Mais comment mettre en oeuvre ces briques technologiques? Si je devais résumer la géostandardisation en une image, ce serait celle-ci. Il s'agit du cadre européen d'interopérabilité (ou EIF). L'interopérabilité est ici à comprendre comme la capacité de systèmes ou d'organisations à travailler ensemble (inter-opérer). L'EIF est un cadre de référence pour la mise en oeuvre de l'interopérabilité dans le cadre de la commission européenne. Il est composé de 4 niveaux: technique, sémantique, organisationnelle et juridique.
 
